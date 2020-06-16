@@ -1,0 +1,38 @@
+{
+  "name": "WebAyas",
+  "short_name": "WebAyas",
+  "start_url": "https://webayas.blogspot.com/",
+  "display": "standalone",
+  "background_color": "#fff",
+  "theme_color": "#C51162",
+  "description": "Blog berbagi",
+  "icons": [{
+    "src": "https://1.bp.blogspot.com/-BH_KJSk_yxw/XugpaCC1h0I/AAAAAAAAJWc/KuznXFUXLv0fhyRr9GO59wxz_GTPsLBOgCLcBGAsYHQ/s1600/Ikon-Web-Ayas48.png",
+    "sizes": "48x48",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-uk8e70CLpKg/Xugpr-OwaCI/AAAAAAAAJWk/K1ApJ0C23x4fCSKQDYwiYn6GBuejAerfACLcBGAsYHQ/s72/Ikon-Web-Ayas72.png",
+    "sizes": "72x72",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-uk8e70CLpKg/Xugpr-OwaCI/AAAAAAAAJWk/K1ApJ0C23x4fCSKQDYwiYn6GBuejAerfACLcBGAsYHQ/s96/Ikon-Web-Ayas72.png",
+    "sizes": "96x96",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-uk8e70CLpKg/Xugpr-OwaCI/AAAAAAAAJWk/K1ApJ0C23x4fCSKQDYwiYn6GBuejAerfACLcBGAsYHQ/s144/Ikon-Web-Ayas72.png",
+    "sizes": "144x144",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-uk8e70CLpKg/Xugpr-OwaCI/AAAAAAAAJWk/K1ApJ0C23x4fCSKQDYwiYn6GBuejAerfACLcBGAsYHQ/s168/Ikon-Web-Ayas72.png",
+    "sizes": "168x168",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-uk8e70CLpKg/Xugpr-OwaCI/AAAAAAAAJWk/K1ApJ0C23x4fCSKQDYwiYn6GBuejAerfACLcBGAsYHQ/s192/Ikon-Web-Ayas72.png",
+    "sizes": "192x192",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-uk8e70CLpKg/Xugpr-OwaCI/AAAAAAAAJWk/K1ApJ0C23x4fCSKQDYwiYn6GBuejAerfACLcBGAsYHQ/s512/Ikon-Web-Ayas72.png",
+    "sizes": "512x512",
+    "type": "image/png"
+  }]
+}
